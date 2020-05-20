@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/tide/android/workspace/AgeraAndroidx/extensions/content/build/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/tide/.gradle/caches/transforms-2/files-2.1/c92ce3d8e9579e130e29df1efc050e4c/appcompat-1.1.0/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/tide/android/workspace/AgeraAndroidx/extensions/content/build/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/tide/.gradle/caches/transforms-2/files-2.1/c92ce3d8e9579e130e29df1efc050e4c/appcompat-1.1.0/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/tide/android/workspace/AgeraAndroidx/extensions/content/build/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/tide/.gradle/caches/transforms-2/files-2.1/c92ce3d8e9579e130e29df1efc050e4c/appcompat-1.1.0/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/tide/android/workspace/AgeraAndroidx/extensions/content/build/intermediates/res/merged/release/drawable-v21/abc_dialog_material_background.xml",
+        "source": "/Users/tide/.gradle/caches/transforms-2/files-2.1/c92ce3d8e9579e130e29df1efc050e4c/appcompat-1.1.0/res/drawable-v21/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/tide/android/workspace/AgeraAndroidx/extensions/content/build/intermediates/res/merged/release/drawable-v21/abc_list_divider_material.xml",
+        "source": "/Users/tide/.gradle/caches/transforms-2/files-2.1/c92ce3d8e9579e130e29df1efc050e4c/appcompat-1.1.0/res/drawable-v21/abc_list_divider_material.xml"
+    },
+    {
+        "merged": "/Users/tide/android/workspace/AgeraAndroidx/extensions/content/build/intermediates/res/merged/release/drawable-v21/notification_action_background.xml",
+        "source": "/Users/tide/.gradle/caches/transforms-2/files-2.1/f1dd6720e0d9e60ebb950aa09c18fd08/core-1.2.0/res/drawable-v21/notification_action_background.xml"
+    }
+]

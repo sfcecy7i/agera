@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="agera__rvdatabinding__collection_id" type="id"/>
+    <item name="agera__rvdatabinding__item_id" type="id"/>
+</resources>

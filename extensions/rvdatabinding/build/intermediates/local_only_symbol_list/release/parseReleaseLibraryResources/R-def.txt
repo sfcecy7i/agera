@@ -1,0 +1,4 @@
+R_DEF: Internal format may change without notice
+local
+id agera__rvdatabinding__collection_id
+id agera__rvdatabinding__item_id
